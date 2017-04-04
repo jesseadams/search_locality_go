@@ -1,0 +1,21 @@
+Search Locality Problem
+
+As a staff researcher, you must repeatedly search through a set of plain text documents in order to do your work.
+
+A common need is to find documents where two different topics or search terms are discussed in the same context, for example: oncology and morbidity, or virtualization and agility.
+
+"Context" within a document can be ambiguous or ill-defined, but in this case, "context" is defined as the two search terms occurring within N words of each other irrespective of sentence, paragraph or page boundaries.
+
+Using a programming language of your choice, develop a piece of software that can iterate over all the plain text documents in a directory and return the set of documents where two search terms occur within N words of each other.
+
+Extra credit:
+In addition to allowing two search terms, allow the user to specify phrases instead of terms, e.g. "Dr. Fowler" and "Continuous Delivery"
+
+
+Background Info 
+
+We’re looking to grow well-rounded engineers. At Stelligent, we apply modern software engineering practices to infrastructure and software delivery so as you begin with Stelligent, we’re aiming to enhance your skillset by providing you specific feedback, a bootcamp, etc specifically targeted to software programming practices. 
+
+Submission
+
+Please attach your results to your Stelligent mentor by COB of your second full day at Stelligent. He will share your results with one of our engineers who will provide you with detailed feedback. 
